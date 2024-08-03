@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning web development
+- 🤔 I’m looking for help with basic and simple problems regarding web devlopment or maybe even programming
+- 📫 You can reach me on here
+  
