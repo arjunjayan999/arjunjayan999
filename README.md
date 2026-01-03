@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning web development
+- 🌏 I am always looking for open source projects to contribute to.
 - 🎈 I have a deep interest in learning and finding ways to put my skills in practical application.
 - 🎉 I hope to find projects with align with my personal interests like music, coding.
 - 📫 You can reach me on here arjunjayan999@proton.me
