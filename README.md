@@ -18,10 +18,20 @@
   "
 >
   <!-- GitHub Streak -->
-  <img
-    src="https://github-readme-streak-stats-8vr4.vercel.app?user=arjunjayan999&theme=catppuccin-mocha&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-streak-stats-8vr4.vercel.app?user=arjunjayan999&theme=catppuccin-mocha&hide_border=true"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-streak-stats-8vr4.vercel.app?user=arjunjayan999&theme=catppuccin-latte&hide_border=true"
+    />
+    <img
+      alt="github-streak"
+      src="https://github-readme-streak-stats-8vr4.vercel.app?user=arjunjayan999&theme=catppuccin-mocha&hide_border=true"
+    />
+  </picture>
   <!-- Tech Stack -->
   <div align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
