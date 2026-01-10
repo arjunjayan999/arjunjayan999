@@ -1,15 +1,16 @@
 <p align="center">
   <img width="500" src="https://github.com/user-attachments/assets/0615ebb5-27b5-466c-8cca-333c3b5c6b0c" alt="Header Image">
 </p>
+<div style="display: flex; flex-direction: row">
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2500&pause=500&color=4FD1C5&background=FFFFFF00&center=true&vCenter=true&width=435&height=100&lines=Hi%2C+I%E2%80%99m+Arjun+Jayan.;I+write+code%2C;I+Google+faster." alt="Typing SVG" />
 </p>
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=arjunjayan999&theme=onedark&hide_border=true" alt="GitHub Streak" /></a>
-  <a href="https://github.com/YOUR-USERNAME">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight"/>
-  </a>
+  <img src="https://github-readme-streak-stats-8vr4.vercel.app?user=arjunjayan999&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-8vr4.vercel.app?user=arjunjayan999" alt="GitHub Streak" />
 </p>
+
+</div>
 
 ---
 
