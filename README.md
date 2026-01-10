@@ -1,10 +1,14 @@
 <!-- TYPING SVG -->
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2500&pause=500&color=38B2AC&background=FFFFFF00&center=true&vCenter=true&width=435&height=100&lines=Hi%2C+I%E2%80%99m+Arjun+Jayan.;I+write+code,;I+Google+faster."
-    alt="Typing SVG"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2500&pause=500&color=58A6FF&background=FFFFFF00&center=true&vCenter=true&width=435&height=50&lines=Hi%2C+I%E2%80%99m+Arjun+Jayan.;I+write+code;I+Google+faster."/>
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2500&pause=500&color=0969DA&background=FFFFFF00&center=true&vCenter=true&width=435&height=50&lines=Hi%2C+I%E2%80%99m+Arjun+Jayan.;I+write+code;I+Google+faster."/>
+     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2500&pause=500&color=58A6FF&background=FFFFFF00&center=true&vCenter=true&width=435&height=50&lines=Hi%2C+I%E2%80%99m+Arjun+Jayan.;I+write+code;I+Google+faster." alt="Typing SVG" />
+  </picture>
 </p>
+
 
 <!-- STREAK + TECH STACK -->
 <div
@@ -21,15 +25,15 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-streak-stats-8vr4.vercel.app?user=arjunjayan999&theme=catppuccin-mocha&hide_border=true"
+      srcset="https://github-readme-streak-stats-8vr4.vercel.app?user=arjunjayan999&theme=github-dark&hide_border=true"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-streak-stats-8vr4.vercel.app?user=arjunjayan999&theme=catppuccin-latte&hide_border=true"
+      srcset="https://github-readme-streak-stats-8vr4.vercel.app?user=arjunjayan999&theme=github-light&hide_border=true"
     />
     <img
       alt="github-streak"
-      src="https://github-readme-streak-stats-8vr4.vercel.app?user=arjunjayan999&theme=catppuccin-mocha&hide_border=true"
+      src="https://github-readme-streak-stats-8vr4.vercel.app?user=arjunjayan999&theme=github-dark&hide_border=true"
     />
   </picture>
   <!-- Tech Stack -->
