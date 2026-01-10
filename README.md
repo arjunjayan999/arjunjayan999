@@ -7,9 +7,15 @@
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats-8vr4.vercel.app?user=arjunjayan999&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-streak-stats-8vr4.vercel.app?user=arjunjayan999" alt="GitHub Streak" />
+  <span>Tech Stack</span>
 </p>
-
+  <p align="center">
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arjunjayan999/arjunjayan999/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arjunjayan999/arjunjayan999/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/arjunjayan999/arjunjayan999/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+</p>
 </div>
 
 ---
