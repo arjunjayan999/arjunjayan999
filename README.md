@@ -1,22 +1,57 @@
+<!-- TYPING SVG -->
 <p align="center">
-  <img width="500" src="https://github.com/user-attachments/assets/0615ebb5-27b5-466c-8cca-333c3b5c6b0c" alt="Header Image">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2500&pause=500&color=4FD1C5&background=FFFFFF00&center=true&vCenter=true&width=435&height=100&lines=Hi%2C+I%E2%80%99m+Arjun+Jayan.;I+write+code.;I+Google+faster."
+    alt="Typing SVG"
+  />
 </p>
-<div style="display: flex; flex-direction: row">
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2500&pause=500&color=4FD1C5&background=FFFFFF00&center=true&vCenter=true&width=435&height=100&lines=Hi%2C+I%E2%80%99m+Arjun+Jayan.;I+write+code%2C;I+Google+faster." alt="Typing SVG" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats-8vr4.vercel.app?user=arjunjayan999&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak" />
-  <span>Tech Stack</span>
-</p>
-  <p align="center">
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arjunjayan999/arjunjayan999/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arjunjayan999/arjunjayan999/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/arjunjayan999/arjunjayan999/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-</p>
+
+<!-- STREAK + TECH STACK -->
+<div
+  align="center"
+  style="
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+  "
+>
+  <!-- GitHub Streak -->
+  <img
+    src="https://github-readme-streak-stats-8vr4.vercel.app?user=arjunjayan999&theme=catppuccin-mocha&hide_border=true"
+    alt="GitHub Streak"
+  />
+
+  <!-- Tech Stack -->
+  <div align="center">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  </div>
 </div>
+
+<!-- SNAKE ANIMATION -->
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/arjunjayan999/arjunjayan999/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/arjunjayan999/arjunjayan999/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github-snake"
+      src="https://raw.githubusercontent.com/arjunjayan999/arjunjayan999/output/github-contribution-grid-snake-dark.svg"
+    />
+  </picture>
+</p>
+
 
 ---
 
@@ -30,14 +65,7 @@
 ---
 
 ## 🛠️ **Tech Stack**
-<p>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-</p>
+
 
 ---
 
@@ -76,3 +104,6 @@
 
 > _“The only way to do great work is to love what you do.”_ – **Steve Jobs**
 
+<p align="center">
+  <img width="500" src="https://github.com/user-attachments/assets/0615ebb5-27b5-466c-8cca-333c3b5c6b0c" alt="Header Image">
+</p>
