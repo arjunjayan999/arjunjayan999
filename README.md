@@ -9,18 +9,18 @@
   </picture>
 </p>
 
-
 <!-- STREAK + TECH STACK -->
 <div
   align="center"
   style="
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-    gap: 16px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
   "
->
+  >
+  
   <!-- GitHub Streak -->
   <picture>
     <source
@@ -36,6 +36,7 @@
       src="https://github-readme-streak-stats-8vr4.vercel.app?user=arjunjayan999&theme=github-dark&hide_border=true"
     />
   </picture>
+  
   <!-- Tech Stack -->
   <div align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
