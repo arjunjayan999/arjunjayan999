@@ -9,7 +9,6 @@
   </picture>
 </p>
 
-<!-- STREAK + TECH STACK -->
 <div
   align="center"
   style="
