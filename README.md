@@ -1,4 +1,4 @@
-<!-- TYPING SVG -->
+<!-- Typing SVG -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
